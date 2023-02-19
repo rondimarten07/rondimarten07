@@ -3,36 +3,36 @@
   Hello, Everyone
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=537FE7&multiline=true&width=435&height=60&lines=Hi+there%2C+I'm+Rondi.;Mobile-Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0014FF&multiline=true&width=435&height=60&lines=Hi+there%2C+I'm+Rondi.;Mobile-Developer.)](https://git.io/typing-svg)
 
 ## 🔧 Technologies & Tools
 <!-- OS -->
-![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=ff69b4)
+![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=009EFF)
 
 <!-- Languages -->
-![Flutter](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=Flutter&logoColor=white&color=ff69b4)
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ff69b4)
-![C#](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=ff69b4)
-![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=ff69b4)
-![html5](https://img.shields.io/badge/Code-html5-informational?style=flat&logo=html5&logoColor=white&color=ff69b4)
-![css3](https://img.shields.io/badge/Code-css3-informational?style=flat&logo=css3&logoColor=white&color=ff69b4)
+![Flutter](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=Flutter&logoColor=white&color=009EFF)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=009EFF)
+![C#](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=009EFF)
+![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=009EFF)
+![html5](https://img.shields.io/badge/Code-html5-informational?style=flat&logo=html5&logoColor=white&color=009EFF)
+![css3](https://img.shields.io/badge/Code-css3-informational?style=flat&logo=css3&logoColor=white&color=009EFF4)
 
 <!-- Tools -->
-![MySQL](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=ff69b4)
+![MySQL](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=009EFF)
 ![GitHub](https://img.shields.io/badge/Tools-github-informational?style=flat&logo=github&logoColor=white&color=ff69b4x)
 ![GitLab](https://img.shields.io/badge/Tools-gitlab-informational?style=flat&logo=gitlab&logoColor=white&color=ff69b4x)
 ![Figma](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&logoColor=white&color=ff69b4x)
-![Postman](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=ff69b4)
-![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=ff69b4)
+![Postman](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=009EFF4)
+![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=009EFF)
 
 <!-- IDEs -->
-![Android Studio](https://img.shields.io/badge/IDE-Android%20Studio-informational?style=flat&logo=androidstudio&logoColor=white&color=ff69b4)
-![Visual Studio](https://img.shields.io/badge/IDE-Visual%20Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=ff69b4)
-![VsCode](https://img.shields.io/badge/IDE-VsCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=ff69b4)
-![Notepad++](https://img.shields.io/badge/IDE-Notepad++-informational?style=flat&logo=notepad%2b%2b&logoColor=white&color=ff69b4)
+![Android Studio](https://img.shields.io/badge/IDE-Android%20Studio-informational?style=flat&logo=androidstudio&logoColor=white&color=009EFF)
+![Visual Studio](https://img.shields.io/badge/IDE-Visual%20Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=009EFF)
+![VsCode](https://img.shields.io/badge/IDE-VsCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=009EFF)
+![Notepad++](https://img.shields.io/badge/IDE-Notepad++-informational?style=flat&logo=notepad%2b%2b&logoColor=white&color=009EFF)
 
 <!-- Frameworks -->
-![jquery](https://img.shields.io/badge/Framework-Tailwind-informational?style=flat&logo=tailwindcss&logoColor=white&color=ff69b4)
+![jquery](https://img.shields.io/badge/Framework-Tailwind-informational?style=flat&logo=tailwindcss&logoColor=white&color=009EFF)
 ![jquery](https://img.shields.io/badge/Tools-jquery-informational?style=flat&logo=jquery&logoColor=white&color=ff69b4x)
 ![bootstrap](https://img.shields.io/badge/Tools-bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=ff69b4x)
 ![React JS](https://img.shields.io/badge/Framework-React%20JS-informational?style=flat&logo=react&logoColor=white&color=ff69b4)
