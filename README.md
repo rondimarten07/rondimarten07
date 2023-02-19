@@ -35,7 +35,7 @@
 ![jquery](https://img.shields.io/badge/Framework-Tailwind-informational?style=flat&logo=tailwindcss&logoColor=white&color=009EFF)
 ![jquery](https://img.shields.io/badge/Tools-jquery-informational?style=flat&logo=jquery&logoColor=white&color=ff69b4x)
 ![bootstrap](https://img.shields.io/badge/Tools-bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=ff69b4x)
-![React JS](https://img.shields.io/badge/Framework-React%20JS-informational?style=flat&logo=react&logoColor=white&color=ff69b4)
+![React JS](https://img.shields.io/badge/Framework-React%20JS-informational?style=flat&logo=react&logoColor=white&color=009EFF)
 ![Stack%20Overflow](https://img.shields.io/badge/Tools-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white")
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Connect With Me
