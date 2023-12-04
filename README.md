@@ -47,9 +47,7 @@
 ## &#x1f4c8; GitHub Stats
 ![](https://visitor-badge.glitch.me/badge?page_id=M1troll.M1troll&left_text=Visitors&right_color=%23ff69b4)
 
-<a href="https://github.com/rondimarten07/rondimarten07">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rondimarten07&show_icons=true&line_height=27&theme=radical" alt="GitHub Stats"/>
-</a>
+
 
 <!--
 **rondimarten07/rondimarten07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
