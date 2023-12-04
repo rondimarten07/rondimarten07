@@ -44,11 +44,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white&color=C13584)](https://www.instagram.com/rondimarten_00)
 
 
-## &#x1f4c8; GitHub Stats
-![](https://visitor-badge.glitch.me/badge?page_id=M1troll.M1troll&left_text=Visitors&right_color=%23ff69b4)
-
-
-
 <!--
 **rondimarten07/rondimarten07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
